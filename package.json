@@ -1,0 +1,17 @@
+{
+  "name": "type-challenges-solved",
+  "description": "type challenges solved",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "Estéban Soubiran <pro.soubiran@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.38.6",
+    "eslint": "^8.40.0"
+  }
+}
